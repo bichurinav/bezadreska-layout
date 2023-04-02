@@ -1,0 +1,19 @@
+[30-Mar-2023 22:29:19 Europe/Berlin] PHP Deprecated:  Automatic conversion of false to array is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Notice:  parse_ini_file(): Read of 4096 bytes failed with errno=13 Permission denied in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Notice:  parse_ini_file(): Read of 4096 bytes failed with errno=13 Permission denied in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Deprecated:  stripos(): Passing null to parameter #1 ($haystack) of type string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Deprecated:  stripos(): Passing null to parameter #1 ($haystack) of type string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Deprecated:  str_ireplace(): Passing null to parameter #2 ($replace) of type array|string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Deprecated:  str_ireplace(): Passing null to parameter #2 ($replace) of type array|string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Deprecated:  str_ireplace(): Passing null to parameter #2 ($replace) of type array|string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:06 Europe/Berlin] PHP Deprecated:  str_ireplace(): Passing null to parameter #2 ($replace) of type array|string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:25 Europe/Berlin] PHP Notice:  parse_ini_file(): Read of 4096 bytes failed with errno=13 Permission denied in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:25 Europe/Berlin] PHP Deprecated:  stripos(): Passing null to parameter #1 ($haystack) of type string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:25 Europe/Berlin] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:25 Europe/Berlin] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:25 Europe/Berlin] PHP Deprecated:  str_ireplace(): Passing null to parameter #2 ($replace) of type array|string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1
+[02-Apr-2023 13:57:25 Europe/Berlin] PHP Deprecated:  str_ireplace(): Passing null to parameter #2 ($replace) of type array|string is deprecated in E:\xampp_apache\htdocs\bezadreska.ru\admin\textolite.php on line 1

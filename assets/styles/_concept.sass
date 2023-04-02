@@ -1,0 +1,71 @@
+.concept
+    position: relative
+    +center
+    background: url('../images/circle-1.jpg') no-repeat right bottom
+    background-size: cover
+    &-container
+        display: flex
+        flex-direction: column
+
+    
+    &-title-block
+        display: flex
+        align-items: center
+        flex-direction: column
+    &__title
+        font-size: 32px
+        font-weight: 500
+        margin-top: 100px
+        margin-bottom: 17px
+        border-bottom: solid 5px $main-color
+        border-radius: 3px
+    
+    &__subtitle
+        font-size: 28px
+        font-weight: 300
+    
+    &-text-block
+        display: flex
+        margin: 0 auto
+        padding: 10px 10px
+        width: 750px
+        background: #fff
+        box-shadow: 0 2px 20px silver
+        border-radius: 10px
+    &-text-block_first
+        margin-top: 30px
+        margin-bottom: 60px
+    &-text-block_second
+        // padding-bottom: 50px
+    &__text
+        text-indent: 20px
+        padding-left: 5px
+        padding-right: 10px
+        display: block
+        font-size: 24px
+        font-weight: 400
+        line-height: 40px
+    &__icon-accept
+        position: relative
+        left: 55px
+        font-size: 48px
+        color: $red
+
+@media (max-width: 980px)
+    .concept
+        &-text-block
+            width: 100%
+        &__text
+            width: 100%
+    .concept-container
+        width: 100%
+
+        // margin-left: 20px
+@media (max-width: 1300px)
+
+    .concept
+        background: none
+        &-text-block
+            position: relative
+            right: 0px
+
